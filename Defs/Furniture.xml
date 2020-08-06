@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="TableGatherSpotBase">
+    <defName>T_Tablecloth_table</defName>
+    <label>Tablecloth table (long)</label>
+    <graphicData>
+      <texPath>Furniture/TTable</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(5.2,2.6)</drawSize>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+    <costStuffCount>60</costStuffCount>
+    <stuffCategories Inherit="False">
+      <li>Fabric</li>
+      <li>Leathery</li>
+    </stuffCategories>
+    <costList>
+      <WoodLog>100</WoodLog>
+    </costList>
+    <statBases>
+      <MaxHitPoints>150</MaxHitPoints>
+      <WorkToBuild>6000</WorkToBuild>
+      <Mass>20</Mass>
+      <Flammability>1.0</Flammability>
+      <Beauty>20</Beauty>
+    </statBases>
+    <size>(5,2)</size>
+  </ThingDef>
+  <ThingDef ParentName="TableGatherSpotBase">
+    <defName>T_FTablecloth_table</defName>
+    <label>Flower tablecloth table (long)</label>
+    <graphicData>
+      <texPath>Furniture/SheetTable</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(5.2,2.2)</drawSize>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+    <costStuffCount>95</costStuffCount>
+    <stuffCategories Inherit="False">
+      <li>Metallic</li>
+      <li>Stony</li>
+      <li>Woody</li>
+    </stuffCategories>
+    <costList>
+      <Cloth>40</Cloth>
+    </costList>
+    <statBases>
+      <MaxHitPoints>150</MaxHitPoints>
+      <WorkToBuild>6000</WorkToBuild>
+      <Mass>20</Mass>
+      <Flammability>1.0</Flammability>
+      <Beauty>15</Beauty>
+    </statBases>
+    <size>(5,2)</size>
+  </ThingDef>
+  <!--의자-->
+  <ThingDef ParentName="FurnitureWithQualityBase">
+    <defName>T_Sofa</defName>
+    <label>Small Sofa</label>
+    <graphicData>
+      <texPath>Furniture/Sofa</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(1.1,1.1)</drawSize>
+      <shadowData>
+        <volume>(0.6, 0.6, 0.6)</volume>
+      </shadowData>
+      <damageData>
+        <rectN>(0,0,1,0.703125)</rectN>
+        <rectS>(0.09375,0,0.84375,1)</rectS>
+        <rectE>(0,0,0.84375,0.625)</rectE>
+        <rectW>(0.15625,0,0.84375,0.625)</rectW>
+      </damageData>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <statBases>
+      <MaxHitPoints>220</MaxHitPoints>
+      <WorkToBuild>7500</WorkToBuild>
+      <Mass>18</Mass>
+      <Flammability>1.0</Flammability>
+      <Beauty>1</Beauty>
+      <Comfort>0.8</Comfort>
+    </statBases>
+    <description>A large, soft, comfy seat. Great for relaxation.</description>
+    <socialPropernessMatters>true</socialPropernessMatters>
+    <stuffCategories>
+      <li>Fabric</li>
+      <li>Leathery</li>
+    </stuffCategories>
+    <costStuffCount>100</costStuffCount>
+    <pathCost>30</pathCost>
+    <fillPercent>0.40</fillPercent>
+    <designationHotKey>Misc8</designationHotKey>
+    <building>
+      <isSittable>true</isSittable>
+    </building>
+  </ThingDef>
+  <ThingDef ParentName="FurnitureWithQualityBase">
+    <defName>T_DiningChair</defName>
+    <label>Dining chair</label>
+    <graphicData>
+      <texPath>Furniture/TChair</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(1.1,1.1)</drawSize>
+      <shadowData>
+        <volume>(0.3, 0.6, 0.3)</volume>
+      </shadowData>
+      <damageData>
+        <rectN>(0.25,0.234375,0.5,0.28125)</rectN>
+        <rectS>(0.25,0.234375,0.5,0.28125)</rectS>
+        <rectE>(0.28125,0.25,0.453125,0.25)</rectE>
+        <rectW>(0.28125,0.25,0.453125,0.25)</rectW>
+      </damageData>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <statBases>
+      <MaxHitPoints>170</MaxHitPoints>
+      <WorkToBuild>6000</WorkToBuild>
+      <Mass>5</Mass>
+      <Flammability>1.0</Flammability>
+      <Beauty>5</Beauty>
+      <Comfort>0.72</Comfort>
+    </statBases>
+    <description>A comfortable and attractive chair for sitting at a table.</description>
+    <socialPropernessMatters>true</socialPropernessMatters>
+    <stuffCategories>
+      <li>Metallic</li>
+      <li>Stony</li>
+      <li>Woody</li>
+    </stuffCategories>
+    <costStuffCount>65</costStuffCount>
+    <pathCost>30</pathCost>
+    <designationHotKey>Misc7</designationHotKey>
+    <fillPercent>0.35</fillPercent>
+    <building>
+      <isSittable>true</isSittable>
+    </building>
+  </ThingDef>
+  <ThingDef ParentName="ArtableFurnitureBase">
+    <defName>T_Cushionchair</defName>
+    <label>Cushion chair</label>
+    <graphicData>
+      <texPath>Furniture/Cushionchair</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(1.3,1.3)</drawSize>
+      <shaderType>CutoutComplex</shaderType>
+      <shadowData>
+        <volume>(0.3, 0.6, 0.3)</volume>
+      </shadowData>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <statBases>
+      <MaxHitPoints>220</MaxHitPoints>
+      <WorkToBuild>9000</WorkToBuild>
+      <Mass>18</Mass>
+      <Flammability>1.0</Flammability>
+      <Beauty>6</Beauty>
+      <Comfort>0.85</Comfort>
+    </statBases>
+    <description>A large, soft, comfy seat. Great for relaxation.</description>
+    <socialPropernessMatters>true</socialPropernessMatters>
+    <costList>
+      <WoodLog>60</WoodLog>
+    </costList>
+    <stuffCategories>
+      <li>Fabric</li>
+      <li>Leathery</li>
+    </stuffCategories>
+    <costStuffCount>100</costStuffCount>
+    <pathCost>30</pathCost>
+    <fillPercent>0.40</fillPercent>
+    <designationHotKey>Misc8</designationHotKey>
+    <building>
+      <isSittable>true</isSittable>
+    </building>
+  </ThingDef>
+  <ThingDef ParentName="FurnitureWithQualityBase">
+    <defName>T_ModernChair</defName>
+    <label>Modern chair</label>
+    <graphicData>
+      <texPath>Furniture/ModernChair</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(1.3,1.3)</drawSize>
+      <shaderType>CutoutComplex</shaderType>
+      <shadowData>
+        <volume>(0.3, 0.6, 0.3)</volume>
+      </shadowData>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <statBases>
+      <MaxHitPoints>340</MaxHitPoints>
+      <WorkToBuild>7500</WorkToBuild>
+      <Mass>18</Mass>
+      <Flammability>0.6</Flammability>
+      <Beauty>2</Beauty>
+      <Comfort>0.8</Comfort>
+    </statBases>
+    <description>A large, soft, comfy seat. Great for relaxation.</description>
+    <socialPropernessMatters>true</socialPropernessMatters>
+    <costList>
+      <Steel>50</Steel>
+    </costList>
+    <stuffCategories>
+      <li>Fabric</li>
+      <li>Leathery</li>
+    </stuffCategories>
+    <costStuffCount>30</costStuffCount>
+    <pathCost>30</pathCost>
+    <fillPercent>0.40</fillPercent>
+    <designationHotKey>Misc8</designationHotKey>
+    <building>
+      <isSittable>true</isSittable>
+    </building>
+  </ThingDef>
+  <!--선반-->
+  <ThingDef ParentName="FurnitureWithQualityBase">
+    <defName>T_Drawer</defName>
+    <label>Drawer</label>
+    <thingClass>Building_Storage</thingClass>
+    <graphicData>
+      <texPath>Furniture/TDrawer</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(1.2,1.6)</drawSize>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.4</fillPercent>
+    <castEdgeShadows>true</castEdgeShadows>
+    <stuffCategories>
+      <li>Metallic</li>
+      <li>Woody</li>
+      <li>Stony</li>
+    </stuffCategories>
+    <costStuffCount>30</costStuffCount>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <Mass>8</Mass>
+      <WorkToBuild>1050</WorkToBuild>
+      <Flammability>1.0</Flammability>
+    </statBases>
+    <description>Items stored in this will not deteriorate, even if outside.</description>
+    <size>(1,1)</size>
+    <building>
+      <ignoreStoredThingsBeauty>true</ignoreStoredThingsBeauty>
+      <defaultStorageSettings>
+        <priority>Important</priority>
+        <filter>
+          <categories>
+            <li>Weapons</li>
+          </categories>
+        </filter>
+      </defaultStorageSettings>
+    </building>
+    <inspectorTabs>
+      <li>ITab_Storage</li>
+    </inspectorTabs>
+    <designationHotKey>Misc12</designationHotKey>
+    <staticSunShadowHeight>0.5</staticSunShadowHeight>
+    <surfaceType>Item</surfaceType>
+    <canOverlapZones>false</canOverlapZones>
+  </ThingDef>
+  <!--장식-->
+  <ThingDef ParentName="ArtableFurnitureBase">
+    <defName>Fountain</defName>
+    <label>Fountain</label>
+    <graphicData>
+      <texPath>Furniture/WaterFountain</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2.2,2.2)</drawSize>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <stuffCategories>
+      <li>Metallic</li>
+      <li>Stony</li>
+    </stuffCategories>
+    <costStuffCount>200</costStuffCount>
+    <statBases>
+      <MaxHitPoints>220</MaxHitPoints>
+      <WorkToBuild>30000</WorkToBuild>
+      <Mass>18</Mass>
+      <Flammability>1.0</Flammability>
+      <Beauty>120</Beauty>
+    </statBases>
+    <size>(2,2)</size>
+    <description>A fountain. Looking good.</description>
+    <castEdgeShadows>true</castEdgeShadows>
+    <pathCost>60</pathCost>
+    <fillPercent>0.4</fillPercent>
+    <socialPropernessMatters>true</socialPropernessMatters>
+    <designationHotKey>Misc8</designationHotKey>
+    <comps>
+      <li>
+        <compClass>CompGatherSpot</compClass>
+      </li>
+    </comps>
+  </ThingDef>
+</Defs>
