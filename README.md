@@ -32,7 +32,7 @@ But not using them.
 
 
 If you want to buy some coke.
-https://www.patreon.com/bePatron?c=1303650  &lt;-- here and give me 1$ !! It help me making mod a lot !!
+https://www.patreon.com/bePatron?c=1303650  -- here and give me 1$ !! It help me making mod a lot !!
 
 
 ![Image](https://i.imgur.com/Rs6T6cr.png)
@@ -45,6 +45,8 @@ https://www.patreon.com/bePatron?c=1303650  &lt;-- here and give me 1$ !! It hel
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
+
 
 
 
