@@ -1,5 +1,8 @@
 # Changelog for TobesDiningRoom
 
+1.0.4.0 - Cannot have the same file-names
+
+
 1.0.3.0 - Fixed incompatibility with dubs bad hygienes fountain
 
 
