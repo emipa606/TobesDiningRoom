@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <T_Tablecloth_table.label>Стол со скатертью</T_Tablecloth_table.label>
+  <T_FTablecloth_table.label>Стол с цветочной скатертью</T_FTablecloth_table.label>
+  <!-- 의자 -->
+  <T_Sofa.label>Небольшой диван</T_Sofa.label>
+  <T_Sofa.description>Мягкий, удобный диван. Отлично подходит для отдыха.</T_Sofa.description>
+  <T_DiningChair.label>Обеденный стул</T_DiningChair.label>
+  <T_DiningChair.description>Удобный и привлекательный стул для сидения за столом.</T_DiningChair.description>
+  <T_Cushionchair.label>Кресло-подушка</T_Cushionchair.label>
+  <T_Cushionchair.description>Мягкое, удобное кресло. Отлично подходит для отдыха.</T_Cushionchair.description>
+  <T_ModernChair.label>Современное кресло</T_ModernChair.label>
+  <T_ModernChair.description>Мягкое, удобное кресло. Отлично подходит для отдыха.</T_ModernChair.description>
+  <!-- 선반 -->
+  <T_Drawer.label>Выдвижной ящик</T_Drawer.label>
+  <T_Drawer.description>Хранящиеся в нем предметы не испортятся, даже если находятся на улице.</T_Drawer.description>
+</LanguageData>
