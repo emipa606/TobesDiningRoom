@@ -1,5 +1,8 @@
 # Changelog for TobesDiningRoom
 
+1.3.2 - Fixed the table-textures, added water-properties on the fountain if [url=https://steamcommunity.com/sharedfiles/filedetails/?id=836308268]Dubs Bad Hygiene[/url] is loaded
+
+
 1.3.1 - Russian translation added, thanks Dmitry6!
 
 

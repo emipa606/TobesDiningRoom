@@ -6,6 +6,7 @@ Update of totobrothers mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1184694645
 
 - Should no longer conflict with the fountain from Dubs Bad Hygiene. If you build a fountain before adding Dubs mod it will be replaced with a drinking fountain on first load.
+- Russian translation added, thanks Dmitry6!
 
 ![Image](https://i.imgur.com/pufA0kM.png)
 
@@ -38,6 +39,7 @@ https://www.patreon.com/bePatron?c=1303650  -- here and give me 1$ !! It help me
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 

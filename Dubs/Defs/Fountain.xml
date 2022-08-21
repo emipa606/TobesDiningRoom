@@ -4,6 +4,7 @@
   <ThingDef ParentName="ArtableFurnitureBase">
     <defName>TobesFountain</defName>
     <label>Fountain</label>
+    <thingClass>DubsBadHygiene.Building_basin</thingClass>
     <graphicData>
       <texPath>Furniture/WaterFountain</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -34,6 +35,10 @@
       <li>
         <compClass>CompGatherSpot</compClass>
       </li>
+      <li Class="DubsBadHygiene.CompProperties_Pipe">
+        <mode>Sewage</mode>
+      </li>
+      <li Class="CompProperties_Forbiddable" />
     </comps>
   </ThingDef>
 </Defs>

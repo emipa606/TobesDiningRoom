@@ -6,7 +6,7 @@
     <graphicData>
       <texPath>Furniture/TTable</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
-      <drawSize>(5.2,2.6)</drawSize>
+      <drawSize>(5.6,2.4)</drawSize>
       <shaderType>CutoutComplex</shaderType>
     </graphicData>
     <costStuffCount>60</costStuffCount>
@@ -32,7 +32,7 @@
     <graphicData>
       <texPath>Furniture/SheetTable</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
-      <drawSize>(5.2,2.2)</drawSize>
+      <drawSize>(5.4,2.4)</drawSize>
       <shaderType>CutoutComplex</shaderType>
     </graphicData>
     <costStuffCount>95</costStuffCount>
