@@ -15,4 +15,9 @@
     <li IfModActive="Dubwise.DubsBadHygiene">Dubs</li>
     <li IfModNotActive="Dubwise.DubsBadHygiene">NoDubs</li>
   </v1.3>
+  <v1.4>
+    <li>/</li>
+    <li IfModActive="Dubwise.DubsBadHygiene">Dubs</li>
+    <li IfModNotActive="Dubwise.DubsBadHygiene">NoDubs</li>
+  </v1.4>
 </loadFolders>

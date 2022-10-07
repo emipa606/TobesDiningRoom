@@ -5,7 +5,8 @@
 Update of totobrothers mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1184694645
 
-- Should no longer conflict with the fountain from Dubs Bad Hygiene. If you build a fountain before adding Dubs mod it will be replaced with a drinking fountain on first load.
+- Should no longer conflict with the fountain from https://steamcommunity.com/sharedfiles/filedetails/?id=836308268]Dubs Bad Hygiene. If you build a fountain before adding Dubs mod it will be replaced with a drinking fountain on first load. Also added plumbing and water-storage to the fountain.
+- Fixed the table-textures. Now pawns wont try to eat beside the table-surface
 - Russian translation added, thanks Dmitry6!
 
 ![Image](https://i.imgur.com/pufA0kM.png)
@@ -23,11 +24,6 @@ A17 and direct download : http://totobrothers.blogspot.kr/2017/11/tobes-dining-r
 
 Some textures are modeled from stardew valley.
 But not using them.
-
-
-If you want to buy some coke.
-https://www.patreon.com/bePatron?c=1303650  -- here and give me 1$ !! It help me making mod a lot !!
-
 
 ![Image](https://i.imgur.com/PwoNOj4.png)
 
