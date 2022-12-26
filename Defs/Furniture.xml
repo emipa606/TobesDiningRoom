@@ -24,6 +24,9 @@
       <Flammability>1.0</Flammability>
       <Beauty>20</Beauty>
     </statBases>
+    <researchPrerequisites>
+      <li>ComplexFurniture</li>
+    </researchPrerequisites>
     <size>(5,2)</size>
   </ThingDef>
   <ThingDef ParentName="TableGatherSpotBase">
@@ -51,6 +54,9 @@
       <Flammability>1.0</Flammability>
       <Beauty>15</Beauty>
     </statBases>
+    <researchPrerequisites>
+      <li>ComplexFurniture</li>
+    </researchPrerequisites>
     <size>(5,2)</size>
   </ThingDef>
   <!--의자-->
@@ -90,6 +96,9 @@
     <pathCost>30</pathCost>
     <fillPercent>0.40</fillPercent>
     <designationHotKey>Misc8</designationHotKey>
+    <researchPrerequisites>
+      <li>ComplexFurniture</li>
+    </researchPrerequisites>
     <building>
       <isSittable>true</isSittable>
     </building>
@@ -131,6 +140,9 @@
     <pathCost>30</pathCost>
     <designationHotKey>Misc7</designationHotKey>
     <fillPercent>0.35</fillPercent>
+    <researchPrerequisites>
+      <li>ComplexFurniture</li>
+    </researchPrerequisites>
     <building>
       <isSittable>true</isSittable>
     </building>
@@ -169,6 +181,9 @@
     <pathCost>30</pathCost>
     <fillPercent>0.40</fillPercent>
     <designationHotKey>Misc8</designationHotKey>
+    <researchPrerequisites>
+      <li>ComplexFurniture</li>
+    </researchPrerequisites>
     <building>
       <isSittable>true</isSittable>
     </building>
@@ -207,6 +222,9 @@
     <pathCost>30</pathCost>
     <fillPercent>0.40</fillPercent>
     <designationHotKey>Misc8</designationHotKey>
+    <researchPrerequisites>
+      <li>ComplexFurniture</li>
+    </researchPrerequisites>
     <building>
       <isSittable>true</isSittable>
     </building>
@@ -250,6 +268,9 @@
         </filter>
       </defaultStorageSettings>
     </building>
+    <researchPrerequisites>
+      <li>ComplexFurniture</li>
+    </researchPrerequisites>
     <inspectorTabs>
       <li>ITab_Storage</li>
     </inspectorTabs>

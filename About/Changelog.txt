@@ -1,5 +1,8 @@
 # Changelog for TobesDiningRoom
 
+1.4.2 - Added research-requirement of complex furniture
+
+
 1.4.1 - Mod updated for 1.4 and passed autotests
 
 
