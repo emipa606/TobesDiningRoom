@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 3541094754
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2f75addf8044b6920e612821ffb3abec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2f75addf8044b6920e612821ffb3abec
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.TobesDiningRoom/Textures/Terrain/dragonball.png
+- Assets/Data/Mlie.TobesDiningRoom/Textures/Furniture/TDrawer_south.png
+- Assets/Data/Mlie.TobesDiningRoom/Textures/Furniture/TTable_northm.png
+- Assets/Data/Mlie.TobesDiningRoom/Textures/Furniture/SheetTable_north.png
+- Assets/Data/Mlie.TobesDiningRoom/Textures/Furniture/ModernChair_south.png
+- Assets/Data/Mlie.TobesDiningRoom/Textures/Furniture/TTable_east.png
+- Assets/Data/Mlie.TobesDiningRoom/Textures/Furniture/Cushionchair_north.png
+- Assets/Data/Mlie.TobesDiningRoom/Textures/Furniture/Sofa_east.png
+- Assets/Data/Mlie.TobesDiningRoom/Textures/Furniture/TChair_north.png
+- "Assets/Data/Mlie.TobesDiningRoom/Textures/Furniture/\uC0C8 \uD3F4\uB354/TDrawer_south.png"
+- "Assets/Data/Mlie.TobesDiningRoom/Textures/Furniture/\uC0C8 \uD3F4\uB354/TDrawer_east.png"
+- Assets/Data/Mlie.TobesDiningRoom/Textures/Furniture/Cushionchair_south.png
+- Assets/Data/Mlie.TobesDiningRoom/Textures/Furniture/Sofa_south.png
+- Assets/Data/Mlie.TobesDiningRoom/Textures/Furniture/SheetTable_northm.png
+- Assets/Data/Mlie.TobesDiningRoom/Textures/Furniture/Cushionchair_east.png
+- Assets/Data/Mlie.TobesDiningRoom/Textures/Furniture/ModernChair_east.png
+- Assets/Data/Mlie.TobesDiningRoom/Textures/Furniture/ModernChair_northm.png
+- Assets/Data/Mlie.TobesDiningRoom/Textures/Furniture/TChair_east.png
+- Assets/Data/Mlie.TobesDiningRoom/Textures/Furniture/WaterFountain_m.png
+- Assets/Data/Mlie.TobesDiningRoom/Textures/Furniture/Cushionchair_southm.png
+- Assets/Data/Mlie.TobesDiningRoom/Textures/Furniture/SheetTable_eastm.png
+- Assets/Data/Mlie.TobesDiningRoom/Textures/Furniture/ModernChair_southm.png
+- Assets/Data/Mlie.TobesDiningRoom/Textures/Furniture/TTable_north.png
+- Assets/Data/Mlie.TobesDiningRoom/Textures/Furniture/TChair_south.png
+- Assets/Data/Mlie.TobesDiningRoom/Textures/Furniture/Sofa_north.png
+- Assets/Data/Mlie.TobesDiningRoom/Textures/Furniture/ModernChair_eastm.png
+- Assets/Data/Mlie.TobesDiningRoom/Textures/Furniture/Cushionchair_eastm.png
+- Assets/Data/Mlie.TobesDiningRoom/Textures/Furniture/SheetTable_east.png
+- Assets/Data/Mlie.TobesDiningRoom/Textures/Furniture/TTable_eastm.png
+- Assets/Data/Mlie.TobesDiningRoom/Textures/Furniture/TDrawer_east.png
+- Assets/Data/Mlie.TobesDiningRoom/Textures/Furniture/WaterFountain.png
+- Assets/Data/Mlie.TobesDiningRoom/Textures/Furniture/TDrawer_north.png
+- Assets/Data/Mlie.TobesDiningRoom/Textures/Furniture/ModernChair_north.png
+- "Assets/Data/Mlie.TobesDiningRoom/Textures/Furniture/\uC0C8 \uD3F4\uB354/TDrawer_north.png"
+- Assets/Data/Mlie.TobesDiningRoom/Textures/Terrain/Soil.png
+- Assets/Data/Mlie.TobesDiningRoom/Textures/Furniture/Cushionchair_northm.png
+Dependencies: []
