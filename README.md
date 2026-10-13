@@ -1,6 +1,6 @@
 # [Tobe's Dining Room (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2188971588)
 
-![Image](https://i.imgur.com/buuPQel.png)
+![Image](https://img.litet.net/logos/Info.png)
 
 Update of totobrothers mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1184694645
@@ -9,9 +9,9 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1184694645
 - Fixed the table-textures. Now pawns wont try to eat beside the table-surface
 - Russian translation added, thanks Dmitry6!
 
-![Image](https://i.imgur.com/pufA0kM.png)
+![Image](https://img.litet.net/logos/Notice.png)
 	
-![Image](https://i.imgur.com/Z4GOv8H.png)
+![Image](https://img.litet.net/logos/OriginalDescription.png)
 
 Add pretty furnitures for dining room in game.
 	Code : totobrother
@@ -23,13 +23,13 @@ A17 and direct download : http://totobrothers.blogspot.kr/2017/11/tobes-dining-r
 Some textures are modeled from stardew valley.
 But not using them.
 
-![Image](https://i.imgur.com/PwoNOj4.png)
+![Image](https://img.litet.net/logos/ReportingIssues.png)
 
 
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
+-  Always post your log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404)
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
@@ -37,4 +37,4 @@ But not using them.
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/TobesDiningRoom?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2188971588) | tags: furniture,  decorations
+[![Image](https://img.shields.io/github/v/release/emipa606/TobesDiningRoom?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2188971588) | furniture, decorations
